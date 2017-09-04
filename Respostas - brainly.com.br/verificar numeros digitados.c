@@ -8,9 +8,7 @@
   https://repl.it/Kap9/1
 
   **/
-
-
-
+  
 #include <stdio.h>
 
 main(){
